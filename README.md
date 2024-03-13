@@ -1,20 +1,17 @@
 # Spotify-Webapp
 
-Mongo-DB, Flask API, HTML & CSS
+<h2>Mongo-DB, Flask API, HTML & CSS
 
 
-3. 
    
-1-Page Proposal for the NoSQL Project
-Names : Soham Raut, Prathamesh Chandrakant Chaudhari Which NoSQL database you want to use?
-Mongodb
-Which public dataset will you use? Provide the link. Does it have nontabular as well as tabular data?
-https://www.kaggle.com/datasets/asaniczka/52000-animation-movie-details-dataset-2024 ?selec t=Animation_Movies.csv
+
+<h3>Which public dataset will you use? Provide the link. Does it have nontabular as well as tabular data?
+<h4>https://www.kaggle.com/datasets/asaniczka/52000-animation-movie-details-dataset-2024 ?selec t=Animation_Movies.csv
 
 
 <h3>Analysis on which we are working:
 
-<h4>Analysis 1: Romantic Movie Exploration<\h4>
+<h4>Analysis 1: Romantic Movie Exploration
 <h5>Objective:
 In this query we are using Overview, Genres, Vote Average attributes. Explore and analyze romantic movies by considering their overviews, genres, and audience ratings to identify trends and popular romantic films.
 <h4>Analysis 2: Adventure and Excitement in Action Films
