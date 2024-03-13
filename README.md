@@ -1,11 +1,11 @@
-# Spotify-Webapp
+# Spotify-Analysis
 
 <h2>Mongo-DB, Flask API, HTML & CSS
 
 
    
 
-<h3>Which public dataset will you use? Provide the link. Does it have nontabular as well as tabular data?
+<h3>Dataset We are using for project
 <h4>https://www.kaggle.com/datasets/asaniczka/52000-animation-movie-details-dataset-2024 ?selec t=Animation_Movies.csv
 
 
