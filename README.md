@@ -14,9 +14,9 @@ https://www.kaggle.com/datasets/asaniczka/52000-animation-movie-details-dataset-
 
 <h>Analysis on which we are working:<\h>
 
-Analysis 1: Romantic Movie Exploration
+<h1>Analysis 1: Romantic Movie Exploration
 Objective:
-In this query we are using Overview, Genres, Vote Average attributes. Explore and analyze romantic movies by considering their overviews, genres, and audience ratings to identify trends and popular romantic films.
+In this query we are using Overview, Genres, Vote Average attributes. Explore and analyze romantic movies by considering their overviews, genres, and audience ratings to identify trends and popular romantic films.<\h>
 Analysis 2: Adventure and Excitement in Action Films
 Objective:
 In this query we are using Tagline, Genres, Vote Average, budget attributes. Explore the correlation between taglines suggesting adventure/excitement and the genres of Action, Adventure, or Thriller, focusing on movies with a positive audience reception. Budgeting of the movie will play piovot role in level of action flims
