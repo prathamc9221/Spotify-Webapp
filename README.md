@@ -12,11 +12,11 @@ Which public dataset will you use? Provide the link. Does it have nontabular as 
 https://www.kaggle.com/datasets/asaniczka/52000-animation-movie-details-dataset-2024 ?selec t=Animation_Movies.csv
 
 
-<h>Analysis on which we are working:<\h>
+<h3>Analysis on which we are working:<\h3>
 
-<h1>Analysis 1: Romantic Movie Exploration
-Objective:
-In this query we are using Overview, Genres, Vote Average attributes. Explore and analyze romantic movies by considering their overviews, genres, and audience ratings to identify trends and popular romantic films.<\h>
+<h4>Analysis 1: Romantic Movie Exploration<\h4>
+<h5>Objective:
+In this query we are using Overview, Genres, Vote Average attributes. Explore and analyze romantic movies by considering their overviews, genres, and audience ratings to identify trends and popular romantic films.<\h5>
 Analysis 2: Adventure and Excitement in Action Films
 Objective:
 In this query we are using Tagline, Genres, Vote Average, budget attributes. Explore the correlation between taglines suggesting adventure/excitement and the genres of Action, Adventure, or Thriller, focusing on movies with a positive audience reception. Budgeting of the movie will play piovot role in level of action flims
