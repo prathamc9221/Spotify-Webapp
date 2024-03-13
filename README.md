@@ -12,7 +12,7 @@ Which public dataset will you use? Provide the link. Does it have nontabular as 
 https://www.kaggle.com/datasets/asaniczka/52000-animation-movie-details-dataset-2024 ?selec t=Animation_Movies.csv
 
 
-<h3>Analysis on which we are working:<\h3>
+<h3>Analysis on which we are working:
 
 <h4>Analysis 1: Romantic Movie Exploration<\h4>
 <h5>Objective:
